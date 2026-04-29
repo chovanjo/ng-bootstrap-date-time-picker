@@ -1,19 +1,18 @@
-# ng-bootstrap-date-time-picker
+# ng-bootstrap Date Time Picker
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.15.
+Enhancing visual separation between date and time components in ng-bootstrap for improved clarity.
 
-## Development server
+## Versions
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+| Version | Angular | Folder | Status |
+|---------|---------|--------|--------|
+| Angular 9 | 9.x | [ng-bootstrap-date-time-picker-9](./ng-bootstrap-date-time-picker-9) | Deprecated |
+| Angular 19 | 19.x | [ng-bootstrap-date-time-picker-19](./ng-bootstrap-date-time-picker-19) | ✅ Active |
 
-## Code scaffolding
+## Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+See the README in the relevant version folder.
 
-## Build
+## Live Demo
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- Angular 19: https://chovanjo.github.io/ng-bootstrap-date-time-picker/
