@@ -12,7 +12,3 @@ Enhancing visual separation between date and time components in ng-bootstrap for
 ## Usage
 
 See the README in the relevant version folder.
-
-## Live Demo
-
-- Angular 19: https://chovanjo.github.io/ng-bootstrap-date-time-picker/
