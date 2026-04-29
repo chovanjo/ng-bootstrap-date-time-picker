@@ -1,4 +1,4 @@
-# ng-bootstrap Date Time Picker — Angular 9
+# ng-bootstrap Date Time Picker - Angular 9
 
 > **Deprecated.** This version targets Angular 9.1.15. For the current version see [ng-bootstrap-date-time-picker-19](../ng-bootstrap-date-time-picker-19).
 

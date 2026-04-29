@@ -1,4 +1,4 @@
-# ng-bootstrap Date Time Picker — Angular 19
+# ng-bootstrap Date Time Picker - Angular 19
 
 > **Active version.** Targets Angular 19.2.9.
 
